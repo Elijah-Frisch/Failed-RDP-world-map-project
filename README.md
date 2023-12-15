@@ -69,11 +69,11 @@ Go to the Log analytics workspace and use this query (https://i.imgur.com/J87ZG8
 <img src="https://i.imgur.com/02OsI03.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-Go to microsoft Sentinal, click on the workbooks tab, and create a new workbook then use this script (https://i.imgur.com/y0DzPRk.png) to plot the attack data:  <br/>
+Go to microsoft Sentinal, click on the workbooks tab, and create a new workbook then use this query (https://i.imgur.com/y0DzPRk.png) to plot the attack data:  <br/>
 <img src="https://i.imgur.com/sGt3GKi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-After that you can change the visualization to a map and you shoudl get somthing that looks like this:  <br/>
+After that you can change the visualization to a map and you should get somthing that looks like this:  <br/>
 <img src="https://i.imgur.com/QgoR6SS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
